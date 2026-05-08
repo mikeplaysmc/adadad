@@ -1099,9 +1099,9 @@ Empyrean = Start({
 		{ Name = "RigUpperLL", MeshId = "3030546036",  TextureId = "3033898741", Offset = CFrame.new(-0.1, 0, 0) * CFrame.Angles(Rad(90), 0, Rad(0)) },
 		-- Offsale Rig
 		{ Name = "RigTorso", MeshId = "139792224823925",  TextureId = "89183204903931", Offset = CFrame.Angles(0, Rad(90), 0) },
-		{ Name = "RigUpperRA", MeshId = "136378854630 ",  TextureId = "120675101379", Offset = CFrame.Angles(0, 0, Rad(90)) },
+		{ Name = "RigUpperRA", MeshId = "139733645770094",  TextureId = "130809869695496", Offset = CFrame.Angles(0, 0, Rad(90)) },
 		{ Name = "RigLowerRA", MeshId = "99608462237958",  TextureId = "130809869695496", Offset = CFrame.new(0, 0, 0) * CFrame.Angles(0, 0, Rad(90)) },
-		{ Name = "RigUpperLA", MeshId = "18989397242",  TextureId = "18989397363", Offset = CFrame.Angles(0, 0, Rad(90)) },
+		{ Name = "RigUpperLA", MeshId = "105141400603933",  TextureId = "71060417496309", Offset = CFrame.Angles(0, 0, Rad(90)) },
 		{ Name = "RigLowerLA", MeshId = "90736849096372",  TextureId = "79186624401216", Offset = CFrame.new(0, 0, 0) * CFrame.Angles(0, 0, Rad(90)) },
 		{ Name = "RigUpperRL", MeshId = "125405780718494",  TextureId = "136752500636691", Offset = CFrame.Angles(0, 0, Rad(90)) },
 		{ Name = "RigLowerRL", MeshId = "83395427313429",  TextureId = "97148121718581", Offset = CFrame.Angles(0, 0, Rad(90)) },
@@ -1110,8 +1110,8 @@ Empyrean = Start({
 		-- Paid Rig
 		{ Name = "RigTorso", MeshId = "84515304632473",  TextureId = "84039546952302", Offset = CFrame.Angles(0, Rad(90), 0) },
 		{ Name = "RigUpperRA", MeshId = "136378854630",  TextureId = "120675101379", Offset = CFrame.identity },
-		{ Name = "RigLowerRA", MeshId = "135697222210595",  TextureId = "120408350187781", Offset = CFrame.identity },
-		{ Name = "RigUpperLA", MeshId = "18989397242",  TextureId = "18989397363", Offset = CFrame.identity },
+		{ Name = "RigLowerRA", MeshId = "18989397242",  TextureId = "18989397363", Offset = CFrame.identity },
+		{ Name = "RigUpperLA", MeshId = "78293105051020",  TextureId = "122537687615163", Offset = CFrame.identity },
 		{ Name = "RigLowerLA", MeshId = "134754275035651",  TextureId = "86702473018302", Offset = CFrame.identity },
 		{ Name = "RigUpperRL", MeshId = "97033114253379",  TextureId = "95050943854091", Offset = CFrame.identity },
 		{ Name = "RigLowerRL", MeshId = "117819431609325",  TextureId = "99296263400991", Offset = CFrame.identity },
