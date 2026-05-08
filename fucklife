@@ -1090,7 +1090,7 @@ Empyrean = Start({
 		-- Free Rig
 		{ Name = "RigTorso", MeshId = "4819720316",  TextureId = "4819722776", Offset = CFrame.Angles(0, Rad(90), Rad(-15)) },
 		{ Name = "RigLowerRA", MeshId = "319354652",  TextureId = "304117018", Offset = CFrame.new(0, 0, 0) * CFrame.Angles(0, Rad(-175), Rad(175)) },
-		{ Name = "RigLowerLA", MeshId = "319354652",  TextureId = "376186990", Offset = CFrame.new(0, 0, 0) * CFrame.Angles(Rad(0), Rad(-175), Rad(175)) },
+		{ Name = "RigLowerLA", MeshId = "83395427313429",  TextureId = "97148121718581", Offset = CFrame.new(0, 0, 0) * CFrame.Angles(Rad(0), Rad(-175), Rad(175)) },
 		{ Name = "RigLowerRL", MeshId = "220855121",  TextureId = "1102816925", Offset = CFrame.new(0, 0, 0) * CFrame.Angles(0, Rad(0), Rad(0)) },
 		{ Name = "RigLowerLL", MeshId = "2907183829",  TextureId = "2907184367", Offset = CFrame.new(0, 0, 0) * CFrame.Angles(Rad(0), Rad(0), Rad(0)) },
 		{ Name = "RigUpperRA", MeshId = "3030546036",  TextureId = "4645402630", Offset = CFrame.Angles(Rad(-90), 0, 0) },
